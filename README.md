@@ -1,2 +1,2 @@
-# carnie
-little game ,test project ,other interesting things
+# 小项目
+一些小项目，写着玩，做个收集
